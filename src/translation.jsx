@@ -5,7 +5,7 @@ function Translation() {
     const initialData = {
         head: "My Website",
         text: "This is my data",
-        text2: "How are you",
+        text2: "my name is fawad",
     };
 
     const [text, setText] = useState(initialData);
